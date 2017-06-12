@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\demo\\SlidingFinish\\app\\build\\intermediates\\res\\merged\\debug\\anim\\base_slide_right_in.xml",
+        "source": "D:\\demo\\SlidingFinish\\app\\src\\main\\res\\anim\\base_slide_right_in.xml"
+    },
+    {
+        "merged": "D:\\demo\\SlidingFinish\\app\\build\\intermediates\\res\\merged\\debug\\anim\\base_slide_right_out.xml",
+        "source": "D:\\demo\\SlidingFinish\\app\\src\\main\\res\\anim\\base_slide_right_out.xml"
+    },
+    {
+        "merged": "D:\\demo\\SlidingFinish\\app\\build\\intermediates\\res\\merged\\debug\\anim\\base_slide_remain.xml",
+        "source": "D:\\demo\\SlidingFinish\\app\\src\\main\\res\\anim\\base_slide_remain.xml"
+    }
+]

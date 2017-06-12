@@ -1,0 +1,22 @@
+#Mon Jun 12 15:36:29 CST 2017
+renamed.6=classes7.dex
+renamed.5=classes4.dex
+renamed.4=classes2.dex
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes5.dex
+renamed.0=classes6.dex
+base.6=D\:\\demo\\SlidingFinish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.1.1_372fedcce5481f4956d5ca41d4db5723e9037bfb
+base.5=D\:\\demo\\SlidingFinish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b1c9882f719a0df895f97fb18cc27791decd750c
+base.4=D\:\\demo\\SlidingFinish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_62663a04f2c51e0dafa2ef8d1409834bb341ee90
+base.3=D\:\\demo\\SlidingFinish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4ab468f7ac970d4ebfe8d6edede14e6f52fdbd88
+base.2=D\:\\demo\\SlidingFinish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b11ef243e6c9ad3780fca131a5f2760e0f8b33b5
+base.1=D\:\\demo\\SlidingFinish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d4867b641d8d160f7beb5b3a866dc9d882bf8bd4
+base.0=D\:\\demo\\SlidingFinish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ea71dbb3893645b53c8f221f2a4935467e96ba15
+file.6=D\:\\demo\\SlidingFinish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.1.1_372fedcce5481f4956d5ca41d4db5723e9037bfb\\classes.dex
+file.5=D\:\\demo\\SlidingFinish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b1c9882f719a0df895f97fb18cc27791decd750c\\classes.dex
+file.4=D\:\\demo\\SlidingFinish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_62663a04f2c51e0dafa2ef8d1409834bb341ee90\\classes.dex
+file.3=D\:\\demo\\SlidingFinish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4ab468f7ac970d4ebfe8d6edede14e6f52fdbd88\\classes.dex
+file.2=D\:\\demo\\SlidingFinish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b11ef243e6c9ad3780fca131a5f2760e0f8b33b5\\classes.dex
+file.1=D\:\\demo\\SlidingFinish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d4867b641d8d160f7beb5b3a866dc9d882bf8bd4\\classes.dex
+file.0=D\:\\demo\\SlidingFinish\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ea71dbb3893645b53c8f221f2a4935467e96ba15\\classes.dex

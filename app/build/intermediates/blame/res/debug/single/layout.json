@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\demo\\SlidingFinish\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base.xml",
+        "source": "D:\\demo\\SlidingFinish\\app\\src\\main\\res\\layout\\base.xml"
+    },
+    {
+        "merged": "D:\\demo\\SlidingFinish\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_viewpager.xml",
+        "source": "D:\\demo\\SlidingFinish\\app\\src\\main\\res\\layout\\activity_viewpager.xml"
+    },
+    {
+        "merged": "D:\\demo\\SlidingFinish\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\demo\\SlidingFinish\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\demo\\SlidingFinish\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_normal.xml",
+        "source": "D:\\demo\\SlidingFinish\\app\\src\\main\\res\\layout\\activity_normal.xml"
+    },
+    {
+        "merged": "D:\\demo\\SlidingFinish\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scroll.xml",
+        "source": "D:\\demo\\SlidingFinish\\app\\src\\main\\res\\layout\\activity_scroll.xml"
+    },
+    {
+        "merged": "D:\\demo\\SlidingFinish\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_abslistview.xml",
+        "source": "D:\\demo\\SlidingFinish\\app\\src\\main\\res\\layout\\activity_abslistview.xml"
+    }
+]

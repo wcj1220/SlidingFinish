@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\demo\\SlidingFinish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.xml",
+        "source": "D:\\demo\\SlidingFinish\\app\\src\\main\\res\\drawable-hdpi\\bg.xml"
+    },
+    {
+        "merged": "D:\\demo\\SlidingFinish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow.xml",
+        "source": "D:\\demo\\SlidingFinish\\app\\src\\main\\res\\drawable-hdpi\\shadow.xml"
+    }
+]
